@@ -1,0 +1,46 @@
+{
+	"ImportPath": "github.com/joelanford/wink_exporter",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v60",
+	"Deps": [
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.10.0",
+			"Rev": "4b6ea7319e214d98c938f12692336f7ca9348d6b"
+		},
+		{
+			"ImportPath": "github.com/gorilla/context",
+			"Rev": "1ea25387ff6f684839d82767c1733ff4d4d15d0a"
+		},
+		{
+			"ImportPath": "github.com/gorilla/handlers",
+			"Comment": "v1.1-4-gd0f2612",
+			"Rev": "d0f261246491e3a8613039e90764460448dc05f5"
+		},
+		{
+			"ImportPath": "github.com/gorilla/mux",
+			"Comment": "v1.1",
+			"Rev": "0eeaf8392f5b04950925b8a69fe70f110fa7cbfc"
+		},
+		{
+			"ImportPath": "github.com/joelanford/wink",
+			"Rev": "e6192f0aa0f7ad9676ff7c266f564e13f1a5f43b"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "1600a4cd699d70009ec28edfd69d3568f6bd757d"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "33fa30fe45020622640e947917fd1fc4c81e3dce"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/internal",
+			"Rev": "33fa30fe45020622640e947917fd1fc4c81e3dce"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "320cb01ddbbf0473674c2585f9b6e245721de355"
+		}
+	]
+}

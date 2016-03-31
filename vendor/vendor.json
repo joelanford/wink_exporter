@@ -1,0 +1,55 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "DWPL08pD/SQ2GzLfoR7ZXnjj7Sw=",
+			"path": "github.com/Sirupsen/logrus",
+			"revision": "4b6ea7319e214d98c938f12692336f7ca9348d6b",
+			"revisionTime": "2016-03-17T14:11:10Z"
+		},
+		{
+			"checksumSHA1": "iIUYZyoanCQQTUaWsu8b+iOSPt4=",
+			"path": "github.com/gorilla/context",
+			"revision": "1ea25387ff6f684839d82767c1733ff4d4d15d0a",
+			"revisionTime": "2016-02-26T13:46:23-08:00"
+		},
+		{
+			"checksumSHA1": "flNRZk3oyHmsux8UsGbj7ziYtUo=",
+			"path": "github.com/gorilla/handlers",
+			"revision": "d0f261246491e3a8613039e90764460448dc05f5",
+			"revisionTime": "2016-03-25T07:02:28-07:00"
+		},
+		{
+			"checksumSHA1": "xF+WqeL9eAlbUkiO2bLghMQzO4k=",
+			"path": "github.com/gorilla/mux",
+			"revision": "0eeaf8392f5b04950925b8a69fe70f110fa7cbfc",
+			"revisionTime": "2016-03-17T14:34:30-07:00"
+		},
+		{
+			"checksumSHA1": "uZhLMiybOv+ODZUcWZTSNCXvqOk=",
+			"path": "github.com/joelanford/wink",
+			"revision": "0bafd7afb2110ba3b726e68388e692cbf82d8f0f",
+			"revisionTime": "2016-03-30T21:41:38-04:00"
+		},
+		{
+			"checksumSHA1": "9QKY4bQlbQ/VZZFP8/1WtH4b0mA=",
+			"path": "golang.org/x/net/context",
+			"revision": "31df19d69da8728e9220def59b80ee577c3e48bf",
+			"revisionTime": "2016-03-29T10:16:23+11:00"
+		},
+		{
+			"checksumSHA1": "mktBVED98G2vv+OKcSgtnFVZC1Y=",
+			"path": "golang.org/x/oauth2",
+			"revision": "33fa30fe45020622640e947917fd1fc4c81e3dce",
+			"revisionTime": "2016-03-25T10:08:19-07:00"
+		},
+		{
+			"checksumSHA1": "W/GiDqzsagBnR7/yEvxatMhUDBs=",
+			"path": "golang.org/x/oauth2/internal",
+			"revision": "33fa30fe45020622640e947917fd1fc4c81e3dce",
+			"revisionTime": "2016-03-25T10:08:19-07:00"
+		}
+	],
+	"rootPath": "github.com/joelanford/wink_exporter"
+}
